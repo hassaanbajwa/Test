@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      New Branch from dev-1
+      New Branch from branch_from
     </div>
   );
 }
